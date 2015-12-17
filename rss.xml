@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[tetrahart]]></title>
         <description><![CDATA[tetrahart]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tetrahart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:38:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 01:54:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tetrahart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[おしん]]></title>
+            <description><![CDATA[<article><h1>おしん</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52c4035b601641d4bbda5177e2026d6aedd09ecf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tetrahart/86b8d042-99b3-423e-95d3-ee345af48a61/index.html</link>
+            <guid isPermaLink="false">86b8d042-99b3-423e-95d3-ee345af48a61</guid>
+            <pubDate>Thu, 17 Dec 2015 01:54:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[感謝の気持ち]]></title>
             <description><![CDATA[<article><h1>感謝の気持ち</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925a3339cb7e1b01741f66a45fd4172a1f60743d.jpg"></article>]]></description>
-            <link>undefinedc5527510-b513-454f-a06e-cf91848d8c56/index.html</link>
+            <link>https://thegrid.ai/tetrahart/c5527510-b513-454f-a06e-cf91848d8c56/index.html</link>
             <guid isPermaLink="false">c5527510-b513-454f-a06e-cf91848d8c56</guid>
             <pubDate>Thu, 17 Dec 2015 01:38:28 GMT</pubDate>
         </item>
