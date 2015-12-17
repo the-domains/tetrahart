@@ -1,0 +1,28 @@
+name: tetrahart
+favicon: null
+layout_spectrum: 0.39773726975545287
+typography_spectrum: 0.8445468810386956
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4534873724915087
+  lightness: 0.6015524009708315
+  saturation: 0.19918045727536082
+  rhythmicContrast: 0.6554803892504424
+purpose: []
