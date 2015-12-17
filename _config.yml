@@ -1,7 +1,7 @@
 name: tetrahart
 favicon: null
-layout_spectrum: 0.39773726975545287
-typography_spectrum: 0.8445468810386956
+layout_spectrum: 1
+typography_spectrum: 0.49518
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.4534873724915087
+  brandStrength: 1
   lightness: 0.6015524009708315
-  saturation: 0.19918045727536082
+  saturation: 0
   rhythmicContrast: 0.6554803892504424
 purpose: []
