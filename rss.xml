@@ -4,7 +4,7 @@
         <description><![CDATA[tetrahart]]></description>
         <link>https://thegrid.ai/tetrahart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 13:30:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tetrahart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[おしん]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/tetrahart/86b8d042-99b3-423e-95d3-ee345af48a61/index.html</link>
             <guid isPermaLink="false">86b8d042-99b3-423e-95d3-ee345af48a61</guid>
             <pubDate>Thu, 17 Dec 2015 01:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[感謝の気持ち]]></title>
-            <description><![CDATA[<article><h1>感謝の気持ち</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925a3339cb7e1b01741f66a45fd4172a1f60743d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/tetrahart/c5527510-b513-454f-a06e-cf91848d8c56/index.html</link>
-            <guid isPermaLink="false">c5527510-b513-454f-a06e-cf91848d8c56</guid>
-            <pubDate>Thu, 17 Dec 2015 01:57:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
