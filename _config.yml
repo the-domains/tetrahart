@@ -2,6 +2,7 @@ name: tetrahart
 favicon: null
 layout_spectrum: 0.51762
 typography_spectrum: 0.43014
+title: "It's A Wonderful World"
 cta:
   domain: null
   bucket: null
